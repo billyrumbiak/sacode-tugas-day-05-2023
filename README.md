@@ -6,4 +6,4 @@ https://billyrumbiak.github.io/sacode-tugas-day-05-2023/
 
 ## images
 
-<img src="img/1.png">
+<img src="img/hasil.png">
